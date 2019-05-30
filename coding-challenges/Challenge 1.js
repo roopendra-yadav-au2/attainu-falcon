@@ -12,7 +12,7 @@ var players = [
     ];
     console.log(players);
     
-    for(var i=1;i<players.length;i++)
+    for(var i=0;i<players.length;i++)
     {
       if(players[i].rank<10)
       {
