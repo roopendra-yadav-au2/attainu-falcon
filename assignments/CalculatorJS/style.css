@@ -1,0 +1,19 @@
+h3{
+  
+    color:white;
+  }
+  div{
+  margin:auto;
+    background-color:skyblue;
+  height:100%;
+  width:60%;
+  }
+  .button
+  {
+   margin:auto;
+  }
+  .container
+  {
+    width:50%;
+    border:5px blue solid;
+  }
