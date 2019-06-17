@@ -1,0 +1,44 @@
+[
+    {
+        "id":"01",
+        "name":"Raj",
+        "gender":"male",
+        "hometown":"Delhi",
+        "email":"raj@mail.com",
+        "password":"RAJKnowsExpress"
+},
+
+{
+    "id":"02",
+    "name":"Ram",
+    "gender":"male",
+    "hometown":"Etah",
+    "email":"ram@mail.com",
+    "password":"RAMKnowsExpress"
+},
+
+{
+    "id":"03",
+    "name":"Rishi",
+    "gender":"male",
+    "hometown":"Chandigarh",
+    "email":"rishi@gmail.com",
+    "password":"RAJKnowsExpress"
+},
+{
+    "id":"04",
+    "name":"Tina",
+    "gender":"female",
+    "hometown":"Jaipur",
+    "email":"tina@tina.com",
+    "password":"tinatina"
+},
+{
+    "id":"05",
+    "name":"Shashi",
+    "gender":"female",
+    "hometown":"Chennai",
+    "email":"shashi@tharoor.com",
+    "password":"shashiram"
+}
+]
